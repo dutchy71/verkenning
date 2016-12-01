@@ -1,2 +1,2 @@
 # verkenning
-eerste verkenning github
+Contribute page for Robbert Dijkgraaf, assignment: FreeCodeCamp
